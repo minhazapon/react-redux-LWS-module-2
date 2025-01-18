@@ -7,10 +7,10 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Root from './Root';
-import Home from './Home';
-import Project from './Project';
+import Home from './Home';;
 import { Provider } from 'react-redux';
 import store from './redux file/store';
+import Project from './work file/Project';
 
 const router = createBrowserRouter([
   {

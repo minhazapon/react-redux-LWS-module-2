@@ -1,4 +1,4 @@
-import Project from "./Project"
+import Project from "./work file/Project"
 
 function Home() {
     return (
