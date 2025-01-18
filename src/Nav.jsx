@@ -8,7 +8,7 @@ function Nav() {
     </>
     return (
         <div>
-            <div className="navbar bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 shadow-lg p-5 transform hover:scale-105 transition-transform duration-300">
+            <div className="navbar bg-gradient-to-r from-black via-cyan-400  shadow-lg p-5 transform hover:scale-105 transition-transform duration-300">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <div
